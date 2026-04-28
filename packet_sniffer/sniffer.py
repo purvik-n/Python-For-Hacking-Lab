@@ -19,3 +19,4 @@ import sys
 
 # Adding extra references for clarity.
 # Cross-referenced with documentation.
+# Minor syntax or spelling fix.
