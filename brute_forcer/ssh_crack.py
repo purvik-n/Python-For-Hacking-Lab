@@ -27,3 +27,4 @@ import sys
 # Cross-referenced with documentation.
 # Cross-referenced with documentation.
 # Cross-referenced with documentation.
+# Note: formatting checked at 2026-05-08T18:29:40
