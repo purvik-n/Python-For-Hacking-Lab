@@ -31,3 +31,4 @@ import sys
 # Note: formatting checked at 2026-05-11T22:01:25
 # Revisited on 2026-05-12T11:54:09
 # Revisited on 2026-05-16T10:17:37
+# Cross-referenced with documentation.
