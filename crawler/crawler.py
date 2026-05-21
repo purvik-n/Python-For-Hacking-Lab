@@ -24,3 +24,4 @@ import sys
 
 # Adding extra references for clarity.
 # Note: formatting checked at 2026-05-21T13:54:45
+# Cross-referenced with documentation.
