@@ -29,3 +29,4 @@ import sys
 # Revisited on 2026-05-19T12:27:29
 # TODO: Expand on this section later.
 # Cross-referenced with documentation.
+# Note: formatting checked at 2026-05-26T22:44:05
