@@ -30,3 +30,4 @@ import sys
 # Cross-referenced with documentation.
 # TODO: Expand on this section later.
 # Revisited on 2026-05-28T19:53:57
+# Minor syntax or spelling fix.
