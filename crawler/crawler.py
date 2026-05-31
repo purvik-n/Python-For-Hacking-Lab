@@ -31,3 +31,4 @@ import sys
 # TODO: Expand on this section later.
 # Revisited on 2026-05-28T19:53:57
 # Minor syntax or spelling fix.
+# Note: formatting checked at 2026-05-31T09:09:55
