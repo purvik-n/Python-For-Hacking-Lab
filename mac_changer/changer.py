@@ -23,3 +23,4 @@ import sys
 # Revisited on 2026-05-27T22:10:00
 # Needs more examples here.
 # Cross-referenced with documentation.
+# Note: formatting checked at 2026-06-03T12:35:56
