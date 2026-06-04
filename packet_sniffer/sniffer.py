@@ -32,3 +32,4 @@ import sys
 # Note: formatting checked at 2026-05-26T22:44:05
 # TODO: Expand on this section later.
 # Needs more examples here.
+# Cross-referenced with documentation.
