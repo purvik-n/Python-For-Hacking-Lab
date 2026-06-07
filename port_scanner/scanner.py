@@ -38,3 +38,4 @@ import sys
 # Note: formatting checked at 2026-06-02T13:30:12
 
 # Adding extra references for clarity.
+# Cross-referenced with documentation.
