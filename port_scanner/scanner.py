@@ -40,3 +40,4 @@ import sys
 # Adding extra references for clarity.
 # Cross-referenced with documentation.
 # TODO: Expand on this section later.
+# Minor syntax or spelling fix.
