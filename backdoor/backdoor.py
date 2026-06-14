@@ -39,3 +39,4 @@ import sys
 # Minor syntax or spelling fix.
 # Note: formatting checked at 2026-06-09T17:09:00
 # Note: formatting checked at 2026-06-09T17:59:03
+# Cross-referenced with documentation.
