@@ -41,3 +41,4 @@ import sys
 # Note: formatting checked at 2026-06-09T17:59:03
 # Cross-referenced with documentation.
 # Cross-referenced with documentation.
+# Minor syntax or spelling fix.
