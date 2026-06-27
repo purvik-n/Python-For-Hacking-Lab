@@ -50,3 +50,4 @@ import sys
 # Adding extra references for clarity.
 # Minor syntax or spelling fix.
 # Note: formatting checked at 2026-06-21T12:36:25
+# Cross-referenced with documentation.
