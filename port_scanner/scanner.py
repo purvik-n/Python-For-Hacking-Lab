@@ -66,3 +66,4 @@ import sys
 # Cross-referenced with documentation.
 # Cross-referenced with documentation.
 # Minor syntax or spelling fix.
+# Note: formatting checked at 2026-07-17T12:23:23
