@@ -72,3 +72,4 @@ import sys
 # Needs more examples here.
 # Cross-referenced with documentation.
 # Revisited on 2026-07-26T09:07:40
+# Note: formatting checked at 2026-07-28T13:33:29
