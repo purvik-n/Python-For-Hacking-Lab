@@ -72,3 +72,4 @@ import sys
 # Revisited on 2026-07-31T10:15:03
 # TODO: Expand on this section later.
 # Cross-referenced with documentation.
+# Note: formatting checked at 2026-08-04T19:13:57
