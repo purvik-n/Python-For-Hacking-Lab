@@ -61,3 +61,4 @@ import sys
 # TODO: Expand on this section later.
 
 # Adding extra references for clarity.
+# Note: formatting checked at 2026-08-05T11:14:03
