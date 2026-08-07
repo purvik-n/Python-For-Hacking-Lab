@@ -82,3 +82,4 @@ import sys
 # Cross-referenced with documentation.
 # Revisited on 2026-08-05T20:53:03
 # Needs more examples here.
+# Minor syntax or spelling fix.
